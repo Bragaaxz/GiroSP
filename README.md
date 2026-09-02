@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="GiroSP - A cultura alimenta a quebrada" width="100%" />
+<img width="637" height="392" alt="Image" src="https://github.com/user-attachments/assets/409e1c59-15e1-462e-9587-7ebf7514d87f" />
   
   <br />
   <br />
