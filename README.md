@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <h1>GIROSP</h1>
+  <h1>GiroSP</h1>
   
   <p align="center">
     <strong>"A cultura alimenta a quebrada."</strong>
